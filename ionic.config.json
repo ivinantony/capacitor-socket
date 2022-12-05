@@ -1,0 +1,7 @@
+{
+  "name": "socketPlugin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
